@@ -27,9 +27,9 @@
 
     
 # 📊 Achievements
-• 1650+ rating on LeetCode (Top 15%)
-• Solved 1100+ DSA problems
+- 1650+ rating on LeetCode (Top 15%)
+- Solved 1100+ DSA problems
 
 # 🌐 Links
-Portfolio: [https://...](https://afridih.in)
-LinkedIn: [https://...](https://www.linkedin.com/in/afridi-haque-851924203/)
+- Portfolio: [https://...](https://afridih.in)
+- LinkedIn: [https://...](https://www.linkedin.com/in/afridi-haque-851924203/)
