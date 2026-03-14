@@ -14,11 +14,13 @@
 - Tailwind CSS
 
 # 🚀 Projects
-• TripTailor – AI trip planning SaaS  
+## TripTailor – AI trip planning SaaS  
+
   - Multi-agent travel planner built with Next.js and Google ADK generating personalized itineraries.
   - Repo Link: [https://...](https://github.com/Afridi-haque7/ai-trip-planner)
   - Live Demo: [https://...](https://www.triptailor.org)
-• SafeReport – AI-powered anonymous crime reporting platform  
+    
+## SafeReport – AI-powered anonymous crime reporting platform  
   - Uses Groq Vision AI to analyze images and auto-generate crime reports.
   - Repo Link: [https://...](https://github.com/Afridi-haque7/crime-report-js)
   - Live Demo: [https://...](https://safereport.afridih.in)
