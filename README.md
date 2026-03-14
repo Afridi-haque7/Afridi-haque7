@@ -4,14 +4,27 @@
  Building AI-powered tools for enterprise low-code platforms.
  
 # 🔧 Tech Stack
+## Frontend
 - React
 - Next.js
-- Node.js
-- Javascript
 - TypeScript
+- Javascript
+- Tailwind
+- Redux
+
+## Backend
+- Node.js
+- Express
+- REST APIs
+
+## Database
 - MongoDB
 - PostgreSQL
-- Tailwind CSS
+
+## Tools
+- Docker
+- Git
+- Postman
 
 # 🚀 Projects
 ## TripTailor – AI trip planning SaaS  
