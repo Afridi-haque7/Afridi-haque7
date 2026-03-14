@@ -43,6 +43,16 @@
 - 1650+ rating on LeetCode (Top 15%)
 - Solved 1100+ DSA problems
 
+
+## 📊 GitHub Stats
+
+<div align="start" display="flex" justify="evenly">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afridi-haque7&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afridi-haque7&layout=compact&theme=github_dark" height="160"/>
+</div>
+
+
 # 🌐 Links
 - Portfolio: [https://...](https://afridih.in)
 - LinkedIn: [https://...](https://www.linkedin.com/in/afridi-haque-851924203/)
+
