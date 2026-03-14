@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Afridi 👋
 
-<!--
-**Afridi-haque7/Afridi-haque7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Software Engineer at Amoga building AI-powered SaaS platforms.
 
-Here are some ideas to get you started:
+# 🔧 Tech Stack
+- React
+- Next.js
+- Node.js
+- TypeScript
+- MongoDB
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Projects
+• TripTailor – AI trip planning SaaS  
+• SafeReport – AI-powered anonymous crime reporting platform  
+
+# 📊 Achievements
+• 1650+ rating on LeetCode (Top 15%)
+• Solved 1100+ DSA problems
+
+# 🌐 Links
+Portfolio: https://afridih.in
+LinkedIn: [https://...](https://www.linkedin.com/in/afridi-haque-851924203/)
